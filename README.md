@@ -1,2 +1,3 @@
 # hello-austria
-this is my first austrian project
+
+I'm Anja and I love sports, yoga, meditation, laughing and psychology.
